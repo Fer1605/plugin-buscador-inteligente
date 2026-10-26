@@ -1,0 +1,11 @@
+# Paquetes generados
+*.zip
+
+# Sistema y editores
+.DS_Store
+__MACOSX/
+Thumbs.db
+.idea/
+.vscode/
+*.log
+.env
